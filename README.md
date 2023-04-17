@@ -1,1 +1,2 @@
-# stepik-automation-python_final
+### Автоматизация тестирования с помощью Selenium и Python
+финальное задание
